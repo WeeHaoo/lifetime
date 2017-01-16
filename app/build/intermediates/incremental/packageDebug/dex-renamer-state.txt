@@ -1,0 +1,7 @@
+#Mon Jan 16 14:05:43 CST 2017
+base.0=D\:\\TSB\\lifetime\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a78783008b858d366acaab2161017ffae473bc01
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\TSB\\lifetime\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e8f27ebf55a436a8387ab4e112e8ec162ba9017a\\classes.dex
+base.1=D\:\\TSB\\lifetime\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e8f27ebf55a436a8387ab4e112e8ec162ba9017a
+file.0=D\:\\TSB\\lifetime\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a78783008b858d366acaab2161017ffae473bc01\\classes.dex

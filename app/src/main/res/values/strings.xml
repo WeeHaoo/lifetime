@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lifetime</string>
+    <string name="appwidget_text">時間正在流逝...
+    </string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+</resources>

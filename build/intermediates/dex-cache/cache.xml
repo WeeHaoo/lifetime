@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\TSB\lifetime\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d003968bf9e07d0bdd0818f123f519cde4f643a6">
+        <dex dex="D:\TSB\lifetime\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e8f27ebf55a436a8387ab4e112e8ec162ba9017a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TSB\lifetime\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\TSB\lifetime\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8fd2992cfc07bf1a4f645fd85243b5184fc00f05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TSB\lifetime\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\TSB\lifetime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_4559c21ba9159312d24f91350d647c3b40339f8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TSB\lifetime\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\TSB\lifetime\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d04ff614b845620be846197eb8b103b0ab3ce491\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TSB\lifetime\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="455611cabe8bc2efae8a6b3aa10b40285033495e">
+        <dex dex="D:\TSB\lifetime\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a78783008b858d366acaab2161017ffae473bc01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TSB\lifetime\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\TSB\lifetime\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9d6bc5eae1a9c4fd7536f22fe1e4568cae7a205a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TSB\lifetime\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\TSB\lifetime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_2d80f5f12ecb400af8ed1f306f247b7746625456\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TSB\lifetime\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\TSB\lifetime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_91c578a4e8ab7c3d8c95d76065231422fc89812e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TSB\lifetime\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\TSB\lifetime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_f2ded458c81fe21396817436676032e80387308d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TSB\lifetime\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\TSB\lifetime\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3f0c15b8f8ecbadc73dd0b031b7ab96a214ae536\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidSdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\TSB\lifetime\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_caca28a16431fee3775290649464e22a4378e1a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TSB\lifetime\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\TSB\lifetime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_7feadf0f8c99fcf1d5fd0c3afe3f9f98843c5419\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TSB\lifetime\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\TSB\lifetime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_a476e904acb9bf82bdb1987e4ab58c37aed4e581\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TSB\lifetime\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\TSB\lifetime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_4ef8242a6e5fbd7de3777132e434cb7aa9738cdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TSB\lifetime\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\TSB\lifetime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_68a863b8ecb99f6bdd0cb95e4f18c0e83f640b61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TSB\lifetime\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\TSB\lifetime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_5de421caa8cca96570ba2e0a01c78ec7b972a184\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\TSB\lifetime\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\TSB\lifetime\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a49c12368e45176e7a5a3e9b70335698673e4ade\classes.dex" />
+    </item>
+
+</items>
